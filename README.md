@@ -1,2 +1,2 @@
-# vernrwalker.github.io
+title: Vern R. Walker's GitHub Homepage
 HELLO, WORLD!
