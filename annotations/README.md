@@ -17,5 +17,5 @@ There are three primary ways of performing annotation:
     - creating datasets used to develop new analytics for automatic annotation;
     - writing and evaluating scripts for automatic annotation; and
     - training and testing machine learning models.
-2. **Automatic annotation**, using analytics. Such annotation is essential for efficiently adding new annotated documents to a dataset, which can be used to scale up a web application.
+2. **Automatic annotation**, using [analytics](https://vernrwalker.github.io/LegalSemanticAnalysis/analytics/). Such annotation is essential for efficiently adding new annotated documents to a dataset, which can be used to scale up a web application.
 3. **Hybrid systems** using a mix of manual and automatic annotation.
