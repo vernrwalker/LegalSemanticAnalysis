@@ -1,4 +1,4 @@
-My ultimate goal as a lawyer and law professor is to extract **reasoning patterns** from **legal documents**, in order to use them to formulate better **arguments** in future cases.
+My ultimate goal as a lawyer and law professor is to extract **reasoning patterns** from **legal documents**, in order to use them to formulate better **arguments** in future cases. This involves developing [annotations](https://vernrwalker.github.io/LegalSemanticAnalysis/annotations/) that can be used to develop and test [analytics](https://vernrwalker.github.io/LegalSemanticAnalysis/analytics/) that can power **web applications**. 
 
 A document begins as plain text. We add to this **semantic** markup or annotation, which adds layers of meaning to specific spans of text. Such annotation helps to make meaning explicit, in a way that is also available for computation.
 
