@@ -15,3 +15,4 @@ How can artificial intelligence (AI) help such a lawyer? First, [**AI analytics*
 It is also important to publish and document our AI analytics.
 
 Such AI analytics are under development, incorporating an ever-expanding suite of tools, such as _deep machine learning_ and _word embeddings_. Such technologies are powerful, but also under-utilized. The biggest barrier today is not our technology, but our understanding of what we are looking for - the layers of legal meaning that lawyers "see" when they read legal documents. What we need is a semantic analysis that is geared toward AI legal applications. This GitHub repo is dedicated to **developing and documenting such a legal semantic analysis**.
+
