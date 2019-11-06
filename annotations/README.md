@@ -8,6 +8,10 @@ For the purpose of **mining arguments** from legal documents, we can think of an
 2. **Intra-sentence Annotation** (or sub-sentence annotation) - such as identifying within a sentence those words that signal an attribution of a proposition to a subject. An example is "_The Veteran stated that he experiences flashbacks to his time in combat._" For this evidence sentence, the attribution cue is "_stated that_", the attribution subject is "_The Veteran_", and the attribution object or proposition is "_he experiences flashbacks to his time in combat_".
 3. **Inter-sentence Annotation** - such as grouping sentences into meaningful units. An example is linking particular evidence sentences, legal-rule sentences, and reasoning sentences as supporting a particular conclusion (such as a finding of fact or a ruling of law). Such groups of sentences would then be an instance of an _argument or reasoning pattern_.
 
+## Important GitHub Repos
+
+**Hofstra Law's [LLT Lab VetClaims Repo](https://github.com/LLTLab/VetClaims-JSON) in JSON format**
+
 ## Modes of Annotation
 
 There are three primary ways of performing annotation:
